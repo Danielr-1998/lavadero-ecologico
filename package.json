@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "next lint",
     "vercel-build": "npm install --legacy-peer-deps && next build"
-
   },
   "dependencies": {
     "flowbite": "^2.5.2",
