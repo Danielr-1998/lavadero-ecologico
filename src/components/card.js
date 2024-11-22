@@ -35,11 +35,11 @@ const memberships = [
 
 const Card = ({ title, price, description, benefits, guarantee }) => {
   return (
-    <div className="max-w-[400px] w-full pt-10 px-10 pb-8 bg-gray-900 rounded-3xl">
+    <div className="max-w-[400px] w-full pt-10 px-10 pb-8 bg-blue-600 rounded-3xl">
       <div className="text-center mb-6">
         <h5 className="text-2xl font-semibold text-white mb-3">{title}</h5>
         <a
-          className="relative group inline-block w-full py-4 px-6 text-center text-gray-50 hover:text-gray-900 bg-blue-600 font-semibold rounded-full overflow-hidden transition duration-200"
+          className="relative group inline-block w-full py-4 px-6 text-center text-gray-50 hover:text-gray-900 bg-yellow-400 font-semibold rounded-full overflow-hidden transition duration-200"
           href="#"
         >
           <div

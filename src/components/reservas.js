@@ -65,7 +65,7 @@ const Reserva = () => {
 
             {/* Modal de Agendamiento */}
             {showModal && (
-                <div className="fixed inset-0 bg-gray-500 bg-opacity-50 flex justify-center items-center">
+                <div className="fixed inset-0 bg-gray-500 bg-opacity-50 flex justify-center items-center z-50"> {/* z-50 para asegurarse de que el modal esté sobre otros elementos */}
                     <div className="bg-white p-8 rounded-lg shadow-lg max-w-lg w-full">
                         <h3 className="text-2xl font-semibold mb-4">Selecciona la fecha y hora</h3>
                         <form onSubmit={handleSubmit}>
