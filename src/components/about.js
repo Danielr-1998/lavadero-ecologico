@@ -10,12 +10,11 @@ const About = () => {
             </div>
             <div className="sm:w-1/2 p-5">
                 <div className="text">
-                    <span className="text-gray-500 border-b-2 border-indigo-600 uppercase">Sobre Nosotros</span>
                     <h2 className="my-4 font-bold text-3xl sm:text-4xl ">Sobre <span className="text-indigo-600">Nuestra empresa</span></h2>
                     <p className="text-gray-700">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, commodi
-                        doloremque, fugiat illum magni minus nisi nulla numquam obcaecati placeat quia, repellat tempore
-                        voluptatum.
+                    En RushWash, creemos que cada gota cuenta. Somos más que un lavado de autos; somos un compromiso con el planeta. Transformamos aguas residuales en un servicio ecológico y eficiente que cuida de tu vehículo y del medio ambiente al mismo tiempo.
+
+Con nuestras membresías, tú eliges cómo aportar a un mundo más verde mientras disfrutas de un auto impecable. ¡Porque juntos podemos hacer la diferencia, una gota a la vez!
                     </p>
                 </div>
             </div>

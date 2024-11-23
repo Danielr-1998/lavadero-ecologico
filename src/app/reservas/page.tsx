@@ -55,7 +55,7 @@ export default function Reservas() {
           ¡Cuidamos tu auto y el planeta!
         </h1>
         <p className="mt-6 text-xl sm:text-2xl">
-          Únete a nuestras membresías ecológicas y disfruta de un servicio premium.
+          RUSHWASH MÁS QUE UN LAVADO DE AUTOS ES UN COMPROMISO CON EL FUTURO        
         </p>
         <a
           href="#membresias"

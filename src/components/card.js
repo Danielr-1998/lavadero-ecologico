@@ -3,7 +3,7 @@ import React from 'react';
 const memberships = [
   {
     title: 'Básica',
-    price: '$10',
+    price: '$69.999',
     description: '',
     benefits: [
       'Lavado semanal',
@@ -13,7 +13,7 @@ const memberships = [
   },
   {
     title: 'Premium',
-    price: '$30',
+    price: '$179.999',
     description: '',
     benefits: [
       'Lavados ilimitados',
@@ -23,11 +23,13 @@ const memberships = [
   },
   {
     title: 'Familiar',
-    price: '$50',
+    price: '$219.999',
     description: '',
     benefits: [
       'Cobertura hasta 3 vehículos',
       'Descuento en productos ecológicos',
+      'Hasta 12 servicios al mes',
+
     ],
     guarantee: 'Certificación de lavado ecológico para empresas que usen el servicio con flotas.',
   }

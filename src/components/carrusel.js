@@ -4,6 +4,7 @@ const Carrusel = () => {
   const images = [
     "/images/beautiful-car-interior-clean-up-service.jpg",
     "/images/car-wash-detailing-station.jpg",
+    "/images/beautiful-car-washing-service.jpg",
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
